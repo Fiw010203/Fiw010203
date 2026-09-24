@@ -57,12 +57,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-2026?username=Fiw010203&theme=tokyonight" alt="Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-2026?username=Fiw010203&theme=tokyonight" alt="" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fiw010203&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fiw010203&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fiw010203&theme=tokyo-night&hide_border=true" alt="" width="100%" />
 </p>
 ---
 
